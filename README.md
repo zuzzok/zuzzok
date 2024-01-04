@@ -1,6 +1,6 @@
 
 <!-- Header Wavy Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=649173&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=649173&section=header"/>
 
 # 🍃 Gino Canestrari
 **`Computer Science Student`**
@@ -19,4 +19,4 @@ Software Developer with a passion for **Java** and **Spring Boot**. I am also pr
 </p>
 
 <!-- Footer Wavy Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=649173&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=649173&section=footer"/>
