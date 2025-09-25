@@ -1,6 +1,6 @@
 
 <!-- Header Wavy Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=649173&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=2da44e&section=header"/>
 
 # Gino Canestrari
 **`Analista en Informática`**
@@ -22,4 +22,4 @@ Sé algo de frontend (**HTML, CSS, JavaScript**), lo suficiente para entender el
 </p>
 
 <!-- Footer Wavy Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=649173&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=2da44e&section=footer"/>
